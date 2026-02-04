@@ -23,9 +23,7 @@ Browse all 201 scenes with live preview player. Try before you use!
 ## 🎥 Preview
 
 <p align="center">
-  <video src="https://github.com/lifeprompt-team/remotion-scenes/releases/download/v1.0.0/theme-preview.mp4" width="720" autoplay loop muted playsinline>
-    Your browser does not support the video tag.
-  </video>
+  <img src="https://github.com/lifeprompt-team/remotion-scenes/releases/download/v1.0.0/theme-preview.gif" alt="Theme Animations Preview" width="640" />
 </p>
 
 <p align="center"><em>Theme Animations - Cyberpunk, Y2K, Glassmorphism, and 30+ more styles</em></p>
