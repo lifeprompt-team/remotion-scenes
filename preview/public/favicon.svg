@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+  </defs>
+  <!-- 
+    Reuleaux triangle (s=24, bbox centered at 16,16)
+    A(top)=16,4  B(left)=4,24.8  C(right)=28,24.8
+    A→C arc (center B), C→B arc (center A), B→A arc (center C)
+  -->
+  <path fill="url(#g)" d="
+    M 16 4
+    A 24 24 0 0 1 28 24.8
+    A 24 24 0 0 1 4 24.8
+    A 24 24 0 0 1 16 4
+    Z
+  "/>
+</svg>
