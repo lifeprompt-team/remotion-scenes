@@ -16,7 +16,8 @@ Browse all 201 scenes with live preview player. Try before you use!
 
 ## 🎥 Preview
 
-https://github.com/user-attachments/assets/dc4c4803-e521-43b6-8421-852e84bc87c0
+https://github.com/user-attachments/assets/5a7ceb07-f5b4-4f15-98fd-ec5989ef374b
+
 
 ## 🚀 Quick Start
 
