@@ -16,9 +16,7 @@ Browse all 201 scenes with live preview player. Try before you use!
 
 ## 🎥 Preview
 
-https://github.com/user-attachments/assets/d4c49d0e-71d7-4628-8de1-cbfa5c86c294
-
-<p align="center"><em>Theme Animations - Cyberpunk, Y2K, Glassmorphism, and 30+ more styles</em></p>
+https://github.com/user-attachments/assets/dc4c4803-e521-43b6-8421-852e84bc87c0
 
 ## 🚀 Quick Start
 
