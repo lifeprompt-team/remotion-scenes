@@ -162,8 +162,8 @@ const App: React.FC = () => {
               key={selectedCategory.id}
               component={selectedCategory.component}
               durationInFrames={selectedCategory.duration}
-              compositionWidth={1920}
-              compositionHeight={1080}
+              compositionWidth={1280}
+              compositionHeight={720}
               fps={30}
               style={styles.player}
               controls
