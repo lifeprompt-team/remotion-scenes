@@ -10,16 +10,13 @@ Ready-to-use animation components inspired by After Effects and professional vid
 
 ## ✨ Live Demo
 
-**👉 [https://lifeprompt-team.github.io/remotion-scenes/](https://lifeprompt-team.github.io/remotion-scenes/)**
+** [https://lifeprompt-team.github.io/remotion-scenes/](https://lifeprompt-team.github.io/remotion-scenes/)**
 
 Browse all 201 scenes with live preview player. Try before you use!
 
 ## 🎥 Preview
 
-https://github.com/user-attachments/assets/23002884-2259-4b33-8567-8231c7d831e8
-<!-- <p align="center">
-  <img src="https://github.com/lifeprompt-team/remotion-scenes/releases/download/v1.0.0/theme-preview.gif" alt="Theme Animations Preview" width="640" />
-</p> -->
+https://github.com/user-attachments/assets/d4c49d0e-71d7-4628-8de1-cbfa5c86c294
 
 <p align="center"><em>Theme Animations - Cyberpunk, Y2K, Glassmorphism, and 30+ more styles</em></p>
 
